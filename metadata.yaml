@@ -1,0 +1,31 @@
+_repo: The-Sleeping-Beauty-Picture-Book_23521
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Crane, Walter
+    birthdate: 1845
+    deathdate: 1915
+    gutenberg_agent_id: '7195'
+    url: http://www.gutenberg.org/2009/agents/7195
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Crane
+covers:
+- cover_type: archival
+  image_path: 23521-h/images/imgcover.jpg
+description: Images of the original pages are available through Internet Archive/American
+  Libraries. See http://www.archive.org/details/sleepingbeautypi00cran
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2007-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23521'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nursery rhymes'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+tableOfContents: "The Sleeping Beauty\r\nBluebeard\r\nThe Baby's Own Alaphabet"
+title: The Sleeping Beauty Picture Book
+url: http://www.gutenberg.org/ebooks/23521
